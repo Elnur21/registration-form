@@ -1,0 +1,28 @@
+body{
+    background-color: #ECF0F1 !important;
+}
+.main{
+    width: 65%;
+    margin: 1% 17.5%;
+
+}
+.additional-color{
+    color: #0674BA !important;
+}
+#mainCaptcha{
+    width: 200px;
+    padding: 20px;
+    background-image: linear-gradient(to right, #ECECEC , #E2E2E2, #C8C8C8, #F0F0F0, #E3E3E3);
+}
+form{
+    margin: 0 20%;
+}
+.btn-success, .bg-green{
+    background-color: #4CAF50 !important;
+}
+.btn-success{
+    width: 300px;
+}
+.btn-success:hover{
+    background-color: #198754 !important;
+}
